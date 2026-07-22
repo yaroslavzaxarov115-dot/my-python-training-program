@@ -1,0 +1,64 @@
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe.config
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.pdb
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.AssemblyReference.cache
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe.config
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.menu.resources
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form2.resources
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form3.resources
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Properties.Resources.resources
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.GenerateResource.cache
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.CoreCompileInputs.cache
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe
+E:\Захаров_ПП12\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.pdb
+F:\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe.config
+F:\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe
+F:\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.pdb
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.AssemblyReference.cache
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe.config
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.menu.resources
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form2.resources
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form3.resources
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Properties.Resources.resources
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.GenerateResource.cache
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.CoreCompileInputs.cache
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe
+F:\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.pdb
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe.config
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.exe
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\lesson on python.pdb
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.AssemblyReference.cache
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe.config
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.menu.resources
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form2.resources
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form3.resources
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Properties.Resources.resources
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.GenerateResource.cache
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.CoreCompileInputs.cache
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.exe
+C:\Users\prog1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.pdb
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.exe.config
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.exe
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.pdb
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.menu.resources
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form2.resources
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form3.resources
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson_on_python.Properties.Resources.resources
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\Zaxarov_Yaroslav.exe.exe
+C:\Users\1\Desktop\Курсовая\lesson on python\lesson on python\obj\Debug\Zaxarov_Yaroslav.exe.pdb
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.exe.config
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.exe
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\bin\Debug\Zaxarov_Yaroslav.exe.pdb
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\Zaxarov_Yaroslav.exe.exe.config
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson_on_python.menu.resources
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form2.resources
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson_on_python.Form3.resources
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson_on_python.Properties.Resources.resources
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\lesson on python.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\Zaxarov_Yaroslav.exe.exe
+C:\Users\Admin\Desktop\работы\lesson on python\lesson on python\obj\Debug\Zaxarov_Yaroslav.exe.pdb
