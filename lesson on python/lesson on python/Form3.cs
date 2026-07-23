@@ -46,7 +46,7 @@ namespace lesson_on_python
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
+            //не нужно
         }
 
         private void bttnpr_Click(object sender, EventArgs e)
@@ -310,8 +310,6 @@ namespace lesson_on_python
         {
 
             this.Close();
-            
-
         }
     }
 }

@@ -18,12 +18,12 @@ namespace lesson_on_python
         }
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            //не нужно
         }
 
         private void radioButton8_CheckedChanged(object sender, EventArgs e)
         {
-
+            //не нужно
         }
 
         private void button1_Click(object sender, EventArgs e)
