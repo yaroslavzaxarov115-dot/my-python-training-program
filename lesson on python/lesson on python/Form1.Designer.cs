@@ -29,36 +29,21 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(menu));
-            this.lblеtitle = new System.Windows.Forms.Label();
             this.lesson1 = new System.Windows.Forms.Button();
             this.lesson2 = new System.Windows.Forms.Button();
             this.lesson3 = new System.Windows.Forms.Button();
             this.lesson4 = new System.Windows.Forms.Button();
             this.lesson5 = new System.Windows.Forms.Button();
             this.lesson6 = new System.Windows.Forms.Button();
-            this.lesson12 = new System.Windows.Forms.Button();
             this.lesson11 = new System.Windows.Forms.Button();
             this.lesson10 = new System.Windows.Forms.Button();
             this.lesson9 = new System.Windows.Forms.Button();
             this.lesson8 = new System.Windows.Forms.Button();
             this.lesson7 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
-            // 
-            // lblеtitle
-            // 
-            this.lblеtitle.AutoSize = true;
-            this.lblеtitle.BackColor = System.Drawing.Color.Transparent;
-            this.lblеtitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lblеtitle.ForeColor = System.Drawing.Color.Gold;
-            this.lblеtitle.Location = new System.Drawing.Point(37, 21);
-            this.lblеtitle.Name = "lblеtitle";
-            this.lblеtitle.Size = new System.Drawing.Size(1035, 46);
-            this.lblеtitle.TabIndex = 0;
-            this.lblеtitle.Text = "Обучающая программа на Python для начинающих";
             // 
             // lesson1
             // 
@@ -151,21 +136,6 @@
             this.lesson6.UseVisualStyleBackColor = false;
             this.lesson6.Click += new System.EventHandler(this.lesson6_Click);
             // 
-            // lesson12
-            // 
-            this.lesson12.BackColor = System.Drawing.Color.Gold;
-            this.lesson12.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.lesson12.Font = new System.Drawing.Font("Impact", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lesson12.ForeColor = System.Drawing.Color.Black;
-            this.lesson12.Location = new System.Drawing.Point(935, 277);
-            this.lesson12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.lesson12.Name = "lesson12";
-            this.lesson12.Size = new System.Drawing.Size(167, 126);
-            this.lesson12.TabIndex = 12;
-            this.lesson12.Text = "Тест 1";
-            this.lesson12.UseVisualStyleBackColor = false;
-            this.lesson12.Click += new System.EventHandler(this.lesson12_Click);
-            // 
             // lesson11
             // 
             this.lesson11.BackColor = System.Drawing.Color.Gold;
@@ -241,43 +211,17 @@
             this.lesson7.UseVisualStyleBackColor = false;
             this.lesson7.Click += new System.EventHandler(this.lesson7_Click);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.ForeColor = System.Drawing.Color.Gold;
-            this.label1.Location = new System.Drawing.Point(-60, 66);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1241, 38);
-            this.label1.TabIndex = 14;
-            this.label1.Text = "---------------------------------------------------------------------------------" +
-    "---------------------";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.ForeColor = System.Drawing.Color.Gold;
-            this.label2.Location = new System.Drawing.Point(-60, 418);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(1241, 38);
-            this.label2.TabIndex = 15;
-            this.label2.Text = "---------------------------------------------------------------------------------" +
-    "---------------------";
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.ForeColor = System.Drawing.Color.Gold;
-            this.label4.Location = new System.Drawing.Point(732, 462);
+            this.label4.Location = new System.Drawing.Point(569, 430);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(316, 36);
+            this.label4.Size = new System.Drawing.Size(526, 72);
             this.label4.TabIndex = 17;
-            this.label4.Text = "Уроков пройдено: 0";
+            this.label4.Text = "Когда запускаешь, всё выглядит\r\n по другому";
             // 
             // button1
             // 
@@ -285,7 +229,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.button1.Location = new System.Drawing.Point(16, 459);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(128, 38);
             this.button1.TabIndex = 18;
@@ -293,18 +237,23 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // progressBar1
+            // 
+            this.progressBar1.Location = new System.Drawing.Point(683, 520);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(396, 38);
+            this.progressBar1.TabIndex = 19;
+            // 
             // menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1115, 510);
+            this.ClientSize = new System.Drawing.Size(1115, 590);
+            this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.lesson12);
             this.Controls.Add(this.lesson11);
             this.Controls.Add(this.lesson10);
             this.Controls.Add(this.lesson9);
@@ -316,35 +265,30 @@
             this.Controls.Add(this.lesson3);
             this.Controls.Add(this.lesson2);
             this.Controls.Add(this.lesson1);
-            this.Controls.Add(this.lblеtitle);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "menu";
-            this.Text = "Изучаем Python по простому";
+            this.Text = "Школа для начинающих";
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lblеtitle;
         private System.Windows.Forms.Button lesson1;
         private System.Windows.Forms.Button lesson2;
         private System.Windows.Forms.Button lesson3;
         private System.Windows.Forms.Button lesson4;
         private System.Windows.Forms.Button lesson5;
         private System.Windows.Forms.Button lesson6;
-        private System.Windows.Forms.Button lesson12;
         private System.Windows.Forms.Button lesson11;
         private System.Windows.Forms.Button lesson10;
         private System.Windows.Forms.Button lesson9;
         private System.Windows.Forms.Button lesson8;
         private System.Windows.Forms.Button lesson7;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ProgressBar progressBar1;
     }
 }
 
